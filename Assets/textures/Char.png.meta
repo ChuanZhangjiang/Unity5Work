@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: c86d9734b64bbee40883594388deccab
+timeCreated: 1461750759
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spr_head
+    21300002: spr_arm
+    21300004: spr_body
+    21300006: spr_leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spr_head
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 53}
+        - {x: -20.5, y: 53}
+        - {x: -37.5, y: 31}
+        - {x: -37.5, y: -31}
+        - {x: -27.5, y: -53}
+        - {x: 32.5, y: -53}
+        - {x: 37.5, y: -50}
+        - {x: 37.5, y: 14}
+        - {x: 34.5, y: 30}
+    - name: spr_arm
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 82
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_body
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 40
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16.5}
+        - {x: -9, y: 16.5}
+        - {x: -16, y: 2.5}
+        - {x: -16, y: -16.5}
+        - {x: 13, y: -16.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 5.5}
+        - {x: 12, y: 15.5}
+    - name: spr_leg
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: Props
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
