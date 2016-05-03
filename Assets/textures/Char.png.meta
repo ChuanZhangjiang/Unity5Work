@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: c86d9734b64bbee40883594388deccab
-timeCreated: 1461750759
+timeCreated: 1461895836
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -61,19 +61,19 @@ TextureImporter:
         y: 14
         width: 75
         height: 106
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.65361065, y: 0.014657399}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -1.5, y: 53}
-        - {x: -20.5, y: 53}
-        - {x: -37.5, y: 31}
-        - {x: -37.5, y: -31}
-        - {x: -27.5, y: -53}
-        - {x: 32.5, y: -53}
-        - {x: 37.5, y: -50}
-        - {x: 37.5, y: 14}
-        - {x: 34.5, y: 30}
+      - - {x: -13.020798, y: 104.44632}
+        - {x: -32.020798, y: 104.44632}
+        - {x: -49.020798, y: 82.44632}
+        - {x: -49.020798, y: 20.446316}
+        - {x: -39.020798, y: -1.5536842}
+        - {x: 20.979202, y: -1.5536842}
+        - {x: 25.979202, y: 1.4463158}
+        - {x: 25.979202, y: 65.44632}
+        - {x: 22.979202, y: 81.44632}
     - name: spr_arm
       rect:
         serializedVersion: 2
@@ -81,8 +81,8 @@ TextureImporter:
         y: 82
         width: 23
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.664089, y: 0.8671725}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: spr_body
@@ -92,18 +92,18 @@ TextureImporter:
         y: 40
         width: 32
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50620747, y: 0.12078869}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 8, y: 16.5}
-        - {x: -9, y: 16.5}
-        - {x: -16, y: 2.5}
-        - {x: -16, y: -16.5}
-        - {x: 13, y: -16.5}
-        - {x: 16, y: -14.5}
-        - {x: 16, y: 5.5}
-        - {x: 12, y: 15.5}
+      - - {x: 7.801361, y: 29.013973}
+        - {x: -9.198639, y: 29.013973}
+        - {x: -16.198639, y: 15.013973}
+        - {x: -16.198639, y: -3.9860268}
+        - {x: 12.801361, y: -3.9860268}
+        - {x: 15.801361, y: -1.9860268}
+        - {x: 15.801361, y: 18.013973}
+        - {x: 11.801361, y: 28.013973}
     - name: spr_leg
       rect:
         serializedVersion: 2
@@ -111,8 +111,8 @@ TextureImporter:
         y: 11
         width: 25
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.33314696, y: 0.8594336}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     outline: []
